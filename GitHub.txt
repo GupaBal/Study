@@ -1,0 +1,2 @@
+GitHub 사용법 
+repository를 생성하여 만들어진 폴더 안에 소스코드를 넣어 놓고 Commit 하면 git에 올라감
